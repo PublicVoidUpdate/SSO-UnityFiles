@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03037e8eb29bd0906b7702461128e990, type: 3}
+  m_Name: New Inventory
+  m_EditorClassIdentifier: 
+  slots:
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 1
+    slotitem: {fileID: 0}
+  - slotcount: 1
+    slotitem: {fileID: 0}
+  - slotcount: 83
+    slotitem: {fileID: 11400000, guid: e2144951cf1180a4aa2285cf71cf3a6c, type: 2}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 1
+    slotitem: {fileID: 11400000, guid: 4c3727514e21322d89dbcc3724e9785f, type: 2}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 2
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 1
+    slotitem: {fileID: 11400000, guid: 4c3727514e21322d89dbcc3724e9785f, type: 2}
+  - slotcount: 2
+    slotitem: {fileID: 0}
+  - slotcount: 2
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}
+  - slotcount: 0
+    slotitem: {fileID: 0}

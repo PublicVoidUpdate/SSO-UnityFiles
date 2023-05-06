@@ -1,18 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
-public class Mineables : MonoBehaviour
+[CreateAssetMenu(menuName = "data/Mineral")]
+public class Mineables : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public TileBase tile;
+    public item item;
+    public int weight;
+    public int count;
+    public float spread;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    //add list support public item itemdrop;
+    //spread
+    //tools needed
+    //tier
+
+
+
+    //future
+    //spawn rate
+    //spawn tiles
+    //spawn maps
 }

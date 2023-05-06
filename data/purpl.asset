@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e880e07bb5f22d67ba602d32c2c2e00, type: 3}
+  m_Name: purpl
+  m_EditorClassIdentifier: Assembly-CSharp::mineral
+  tile: {fileID: 11400000, guid: 3e27371b0a0710f76816b3411772b3fa, type: 2}
+  item: {fileID: 11400000, guid: 52f7401095e312ed79de25f4466e4a88, type: 2}
